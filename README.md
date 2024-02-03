@@ -1,6 +1,6 @@
-# DiscorBetterStream
+# DiscordBetterStream
 
-DiscorBetterStream is a BetterDiscord plugin designed to enhance your experience when viewing friends' streams on Discord. It allows you to adjust the position and size of the stream window, making it easier to view streams from various screen resolutions, including ultrawide and 4K.
+DiscordBetterStream is a BetterDiscord plugin designed to enhance your experience when viewing friends' streams on Discord. It allows you to adjust the position and size of the stream window, making it easier to view streams from various screen resolutions, including ultrawide and 4K.
 
 ### Features
 
@@ -13,11 +13,11 @@ DiscorBetterStream is a BetterDiscord plugin designed to enhance your experience
 
 2. **Download Plugin**:
 
-   - Download `DiscorBetterStream.plugin.js` from the [GitHub repository](#).
+   - Download `DiscordBetterStream.plugin.js` from the [GitHub repository](#).
    - Place the file in your BetterDiscord plugins folder.
 
 3. **Activate Plugin**:
-   - Go to `User Settings > BETTERDISCORD > Plugins` and enable `DiscorBetterStream`.
+   - Go to `User Settings > BETTERDISCORD > Plugins` and enable `DiscordBetterStream`.
 
 ### Usage
 
@@ -47,6 +47,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) f
 
 ---
 
-_DiscorBetterStream is not affiliated with Discord. This is an independent third-party modification._
+_DiscordBetterStream is not affiliated with Discord. This is an independent third-party modification._
 
 _Discord is a trademark of Discord Inc._
