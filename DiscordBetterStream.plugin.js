@@ -1,5 +1,5 @@
 /**
- * @name DiscorBetterStream
+ * @name DiscordBetterStream
  * @version 0.0.1
  * @description A plugin for BetterDiscord that allows you to move and zoom the stream in the Discord application.
  */
@@ -10,7 +10,7 @@ const path = require("path");
 
 const config = {
   info: {
-    name: "DiscorBetterStream",
+    name: "DiscordBetterStream",
     authors: [
       {
         name: "sa413x",
